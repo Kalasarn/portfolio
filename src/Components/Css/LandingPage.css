@@ -1,0 +1,83 @@
+.landingDiv
+{ 
+    height: 100vh;
+    background-image: url('../Images/bg.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative;
+ 
+}
+
+.buttonDiv
+{
+  margin-top: 15px;
+  margin-left: 20vw;
+  border: solid;
+  border-width: 2px;
+  border-color: white;
+  padding: 10px;
+  display: inline-block;
+}
+.aboutMeDiv
+{
+  background-color: #243b55;
+}
+
+.smallBorderDiv
+{
+  margin-left: 20vw;
+  border: solid;
+  border-width: 2px;
+  border-color: white;
+  padding: 10px;
+  display: inline-block;
+}
+
+.projektWebDiv
+{
+  margin-right: 100px;
+  margin-top: 2vh;
+  width: 400px;
+  float: left;
+   
+}
+
+.projektNonWebDiv
+{
+  margin-top: 2vh;
+  width: 400px;
+  float: left;
+   
+}
+
+.padLeft
+{
+  padding-left: 20vw;
+  
+}
+
+.techDiv
+{
+  
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  float: left;
+  border-bottom: solid;
+  border-width: 2px;
+  border-color: white;
+  
+    
+}
+
+.dialogDiv
+{
+  height: 100%;
+  background-color: #243b55;
+  color: white
+}
+
+.dialogHeader
+{
+  color: white;
+}
